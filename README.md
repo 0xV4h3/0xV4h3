@@ -42,6 +42,13 @@
 </div>
 
 ###
+# 🧑‍💻 Leetcode Stats:
+
+<p align="center">
+    <a href="https://leetcode.com/0xV4h3/"><img width="48%" src="https://leetcode.card.workers.dev/0xV4h3?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
+</p>
+
+###
 
 <br clear="both">
 
