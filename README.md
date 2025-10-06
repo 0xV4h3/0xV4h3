@@ -5,7 +5,7 @@
 
 ## 💫 About Me:
 
-<p align="left">Software Engineering student at NPUA<br>ML/AI Engineering student Smart Code</p>
+<p align="left">Software Engineering student at NPUA<br>ML/AI Engineering student at Smart Code</p>
 
 ###
 
