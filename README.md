@@ -41,7 +41,7 @@
 
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=0xV4h3&theme=gotham&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xV4h3&layout=compact&langs_count=10&theme=gotham&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xV4h3&hide=Jupyter%20Notebook&layout=compact&langs_count=10&theme=gotham&hide_border=false" height="150" />
 </div>
 
 ###
