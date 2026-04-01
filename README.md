@@ -5,7 +5,10 @@
 
 ## 💫 About Me:
 
-<p align="left">Software Engineering student at NPUA<br>ML/AI Engineering student at Smart Code</p>
+<p align="left">
+  Software Engineering Graduate from NPUA<br>
+  Certified ML/AI Engineer by <a href="https://smartcode.am">Smart Code</a>
+</p>
 
 ###
 
