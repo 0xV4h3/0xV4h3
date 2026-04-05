@@ -6,7 +6,7 @@
 ## 💫 About Me:
 
 <p align="left">
-  Software Engineering Graduate from NPUA<br>
+  Software Engineering Graduate from <a href="https://polytech.am/en/home">NPUA</a><br>
   Certified ML/AI Engineer by <a href="https://smartcode.am">Smart Code</a>
 </p>
 
