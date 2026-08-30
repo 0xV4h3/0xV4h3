@@ -43,15 +43,15 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=0xV4h3&theme=gotham&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xV4h3&hide=Jupyter%20Notebook&layout=compact&langs_count=10&theme=gotham&hide_border=false" height="150" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=0xVahe&theme=gotham&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xVahe&hide=Jupyter%20Notebook&layout=compact&langs_count=10&theme=gotham&hide_border=false" height="150" />
 </div>
 
 ###
 # 🧑‍💻 Leetcode Stats:
 
 <p align="center">
-    <a href="https://leetcode.com/0xV4h3/"><img width="48%" src="https://leetcode.card.workers.dev/0xV4h3?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
+    <a href="https://leetcode.com/0xVahe/"><img width="48%" src="https://leetcode.card.workers.dev/0xVahe?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
 </p>
 
 ###
@@ -59,9 +59,9 @@
 <br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xV4h3/0xV4h3/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xV4h3/0xV4h3/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/0xV4h3/0xV4h3/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xVahe/0xVahe/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xVahe/0xVahe/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/0xVahe/0xVahe/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
